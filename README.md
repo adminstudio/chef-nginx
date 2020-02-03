@@ -1,1 +1,4 @@
-# chef-nginx
+# devessentials
+
+TODO: Enter the cookbook description here.
+
